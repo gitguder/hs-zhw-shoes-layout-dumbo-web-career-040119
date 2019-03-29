@@ -36,3 +36,7 @@
   height: 0;
   line-height: 0;
 }
+
+[class*="coll-"]:first-child {
+  margin-left: 0;
+}
