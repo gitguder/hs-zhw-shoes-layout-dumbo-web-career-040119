@@ -37,6 +37,8 @@
   line-height: 0;
 }
 
-[class*="coll-"]:first-child {
+[class*="col-"]:first-child {
   margin-left: 0;
 }
+
+.col-4 { width: 32% }
